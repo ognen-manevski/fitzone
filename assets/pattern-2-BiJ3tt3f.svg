@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 640">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient6);
+        stroke: url(#linear-gradient7);
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient4);
+        stroke: url(#linear-gradient5);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient2);
+        stroke: url(#linear-gradient3);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient1);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient8);
+        stroke: url(#linear-gradient9);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="450" y1="640" x2="750" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="lime" stop-opacity="0"/>
+      <stop offset="1" stop-color="lime"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="463.5" y1="747.2" x2="761.1" y2="575.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="lime" stop-opacity="0"/>
+      <stop offset="1" stop-color="lime"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-150" x2="150" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient3" x1="-136.5" y1="747.2" x2="161.1" y2="575.4" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient4" x1="140.5" y1="383.6" x2="434.8" y2="213.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="lime"/>
+      <stop offset="1" stop-color="lime" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="138.9" y1="384.6" x2="436.5" y2="212.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="lime"/>
+      <stop offset="1" stop-color="lime" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" y1="0" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient7" x1="463.5" y1="107.2" x2="761.1" y2="-64.6" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient8" x1="-150" y1="0" x2="150" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient9" x1="-136.5" y1="107.2" x2="161.1" y2="-64.6" xlink:href="#linear-gradient1"/>
+  </defs>
+  <polygon class="st3" points="450 720 490 640 600 640 640 560 750 560 670 720 450 720"/>
+  <polygon class="st2" points="-150 720 -110 640 0 640 40 560 150 560 69.9 720 -150 720"/>
+  <polygon class="st1" points="450 240 410 320 300 320 260 400 150 400 230.1 240 450 240"/>
+  <polygon class="st0" points="450 80 490 0 600 0 640 -80 750 -80 670 80 450 80"/>
+  <polygon class="st4" points="-150 80 -110 0 0 0 40 -80 150 -80 69.9 80 -150 80"/>
+</svg>
